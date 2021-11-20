@@ -1,21 +1,23 @@
-![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
+# Dinda & Indra Wedding Website
 
-# React Example
+![Gatsby Publish](https://github.com/idindrakusuma/thekusuma/workflows/Gatsby%20Publish/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/4481a013-a72b-4ecf-939b-00b84c25dd89/deploy-status)](https://app.netlify.com/sites/thekusuma/deploys)
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+Features:
+- Landing Page, with features like:
+ - Countdown Timer
+ - Live Button
+ - Floating Music
+ - Photo Gallery
+ - Pre-wedding Video 
+ - And more..
+- also, this web-app has QR Guest Generator
+- and Guest Tikcet Viewer
 
-## Deploy Your Own
+Tech Stack:
+- GatsbyJs
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+Credits
+- Original Landing Page Template (https://freehtml5.co/)
+- Icon Assets (https://www.flaticon.com/packs/covid-protection-measures-5)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app-functions&template=create-react-app)
-
-_Live Example: https://create-react-app.now-examples.now.sh/_
-
-### How We Created This Example
-
-To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
-
-```shell
-$ npx create-react-app my-app
-```
+Thanks!
